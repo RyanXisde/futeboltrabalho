@@ -1,5 +1,9 @@
-body{
-    background-color: rgba(241, 95, 95, 0.253);
+
+main{
+    background-color: coral;
+}
+.header{
+    background-color: rgba(245, 165, 165, 0.253);
 }
 .logotipo{
     height: 300px;
@@ -10,3 +14,6 @@ body{
 .imagem2{
     height: 300px;
 } 
+.footer{
+    background-color: brown;
+}
